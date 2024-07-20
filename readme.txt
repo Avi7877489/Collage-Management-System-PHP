@@ -1,4 +1,4 @@
-How to run the Student Management Project using PHP and MySQL
+How to run the Collage Management Project using PHP and MySQL
 
 1. Download the project zip file
 
